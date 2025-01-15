@@ -1,4 +1,5 @@
-# Data Scientist
+# Data Scientist Candidate
+Technical Skills: Python, SQL, MATLAB, Power BI (Basic), Microsoft Azure (Basic)
 
 ## Education
 
